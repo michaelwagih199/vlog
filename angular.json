@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "vlog"
+  "defaultProject": "vlog",
+  "cli": {
+    "analytics": "471fbdb3-97da-4937-86ab-8a5602cd62cc"
+  }
 }
